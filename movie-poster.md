@@ -16,8 +16,8 @@ At each step, save and commit your work in GitHub Desktop.
 **Commit Messages for Each Step**
 - Step 1: *Completed creative brief*  
 - Step 2: *Documented first two AI attempts*  
-- Step 3: *Documented final AI attempts*  
-- Step 4: *Added Photoshop modifications*  
+- Step 3: *Documented final AI attempts* 
+- Step 4: *Added Photoshop modifications* 
 - Step 5: *Completed reflection*  
 
 ---
@@ -30,36 +30,37 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  Star Wars
+- **Why I chose this movie:**  I love sci-fi
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
 - **Core emotion:**  
+Fear, wonder
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  The Death Star
+- **Why this element:**  The Death Star evokes a feeling of fearsome awe.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  I don't want heroes in the poster.
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Black
+- **Accent color(s):**  Red
+- **Overall mood:** Dark, foreboding
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+The rays coming out from the Death Star should focus on a point.
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -68,11 +69,12 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  A large spherical space station, starry black space background, green rays emerging from the space station and converging on a point.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** I got a pretty good design for a space station, it doesn't look exactly like the Death Star but that's ok
+- **What didn't work:** The green rays don't come out and converge on a single point.
 - **What I'll change for next attempt:**  
+I need to be more specific about how the green rays start and end.
 
 **Attempt 2:**  
 - **My prompt:**  
