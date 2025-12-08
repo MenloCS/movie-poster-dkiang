@@ -77,11 +77,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 I need to be more specific about how the green rays start and end.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  A large spherical space station, starry black space background, 5 green rays emerge from opposite sides of a circle and converge on a single point to the side of the space station.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** One of the versions looks right, with the green rays 
+- **What didn't work:** They don't want to converge
+- **What I'll change for next attempt:** Simplify this by making it just one ray
 
 ---
 
@@ -91,7 +91,7 @@ I need to be more specific about how the green rays start and end.
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** A large spherical space station, starry black space background, a single green ray shoots toward a planet.
 
 - **What worked:**  
 - **What didn't work:**  
