@@ -55,8 +55,8 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [X] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [ ] Medium shot (full figure)  
+- [X] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
